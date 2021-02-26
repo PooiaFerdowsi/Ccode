@@ -9,4 +9,6 @@ int main(){
   int **dptr0;
   static char[] = "text";
   }
+  register inCpu;
+  // notes 
 }
